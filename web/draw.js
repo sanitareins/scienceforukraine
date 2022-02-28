@@ -8,7 +8,6 @@
 function drawMarkers (filters)
 {
     const filterLayerName = filters.join("_");
-    console.log(filters, filterLayerName);
     
     const layerGroup = L.layerGroup();
     
@@ -53,9 +52,6 @@ function drawMarkers (filters)
         
             layerGroup.addLayer(marker);
         }
-        
-        // console.log ("create marker for filter", addMarker);
-
     });
     
     layerGroup.addTo (scienceMap);
@@ -64,8 +60,6 @@ function drawMarkers (filters)
         filterName: filterLayerName,
         layerGroup: layerGroup
     });
-    
-    console.log(scienceLayers);
 }
 
 /**

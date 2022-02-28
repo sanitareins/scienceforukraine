@@ -17,9 +17,13 @@
 
         .info
         {
-          padding: 1em;
           font-size: 10pt;
           color: #85817e;
+        }
+        
+        .info .order-lg-1 p
+        {
+            margin: 1em;
         }
 
         .info a
@@ -57,17 +61,18 @@
   </head>
   <body>
     <div class="row info">
-      <div class="col">
+      <div class="col order-lg-2">
+        <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
+      </div>
+      <div class="col order-lg-1">
         <p>Navigation</p>
         <ul>
           <li><a href="http://scienceforukraine.eu/help">How you can help</a></li>
           <li><a href="http://scienceforukraine.eu/team">Team</a></li>
         </ul>    
       </div>
-      <div class="col">
-        <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
-      </div>
-      <div class="col"></div>
+
+      <div class="col order-lg-3"></div>
     </div>
 
     <nav class="text-center">
@@ -100,7 +105,7 @@
     <script src="assets/leaflet/leaflet.js"></script>
     <script src="assets/load_map.js"></script>
     <script>L.Icon.Default.imagePath = 'assets/leaflet/images/';</script>  
-    <script src="data.js?v=6"></script>
+    <script src="data.js?v=7"></script>
     <script src="draw.js?v=3"></script>
 </body>
 
