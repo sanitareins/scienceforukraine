@@ -1,0 +1,23 @@
+body {
+    background-color: #f2f1f1;
+}
+
+.info {
+    padding: 1em;
+    font-size: 10pt;
+    color: #85817e;
+}
+
+.logo {
+    max-width: 400px;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    display: block;
+}
+
+.bottom-links a {
+    margin-right: 0.5em;
+}
