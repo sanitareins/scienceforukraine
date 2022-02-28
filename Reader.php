@@ -1,35 +1,41 @@
 <?php
 /**
- * 
+ * Read data from input.csv file
  */
 class Reader
 {
     /**
-     * 
+     * CSV file handler
      */
-    public $handler;
+    private $_handler;
 
     /**
+     * Each column variable name
      * 
+     * @var string[]
      */
     public $headers;
     
+    /**
+     * Open input.csv to parse data
+     * 
+     * @return void
+     */
     public function __construct ()
     {
-        $this->handler = fopen("input.csv", "r");
+        $this->_handler = fopen("input.csv", "r");
 
-        $this->_headers (fgetcsv($this->handler));
-
-        
+        $this->_headers (fgetcsv($this->_handler));
     }
 
     /**
+     * Header colums to make them readablea as variables
      * 
+     * @return void
      */
     private function _headers ($row)
     {
         $row = array_map(function ($value) {
-            // var_dump();
             return str_replace(" ", "-", strtolower($value));
         }, $row);
 
@@ -41,7 +47,7 @@ class Reader
      */
     public function read ()
     {
-        $row = fgetcsv($this->handler);
+        $row = fgetcsv($this->_handler);
 
         if (!$row)
         {
@@ -58,42 +64,47 @@ class Reader
     }
 
     /**
+     * Read coorginates from map link
      * 
+     * @example @52.3813778,9.7179203,17z
+     * @return array
      */
     private function _addCoordinates($values)
     {
         $mapLink = $values["map"];
 
-        // var_dump ($mapLink);
-
-        // @52.3813778,9.7179203,17z
+        
         $x = preg_match("#/@([\-?\d\.]+),(\-?[\d\.]+),\d+z/#i", $mapLink, $matches);
 
-        if (!$x)
+        if ($x)
         {
-            var_dump($values);
-            throw new \Exception ("bad x");
+            /* var_dump($values);
+            throw new \Exception ("bad x"); */
+            $values["lat"] = $matches[1];
+            $values["lng"] = $matches[2];
         }
 
-        // var_dump($matches);
-        $values["lat"] = $matches[1];
-        $values["lng"] = $matches[2];
+        
 
         return $this->_popupData($values);
     }
 
     /**
+     * Close file hangler
      * 
+     * @return void
      */
     public function _close ()
     {
-        fclose($this->handler);
+        fclose($this->_handler);
     }
 
     /**
      * private function for popup data 
      * add new attribut 
      * popupData
+     * 
+     * @return array
      */
     private function _popupData ($values)
     {

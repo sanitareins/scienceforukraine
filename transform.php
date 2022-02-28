@@ -3,12 +3,17 @@ include 'Reader.php';
 
 $reader = new Reader();
 
-
 $json = [];
 while ($row = $reader->read())
 {
-    $json[] = $row;
-    // var_dump($row);
+    if (!isset($row['lat']))
+    {
+        user_error("No coordinates for " . $row['institution']);
+    } else 
+    {
+        $json[] = $row;
+    }
+    
 }
 
 $reader->_close();
