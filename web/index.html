@@ -8,67 +8,45 @@
     <title>Science for Ukraine</title>
     <link href="assets/leaflet/leaflet.css" rel="stylesheet">
     <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/local_css/default_page.css" rel="stylesheet">
 
     <style>
-        body 
-        {
-            background-color: #f2f1f1;
-        }
-
-        .info
-        {
-          font-size: 10pt;
-          color: #85817e;
-        }
-        
-        .info .order-lg-1 p
-        {
-            margin: 1em;
-        }
-
-        .info a
-        {
-          color: #85817e;
-          text-decoration: none;
-        }
-
-        .info a svg
-        {
-          color: #0078A8;
-        }        
-
-        .logo {
-            max-width: 400px;
-            margin-bottom: 2em;
-            margin-left: auto;
-            margin-right: auto;
-            text-align: center;
-            position: relative;
-            display: block;
-        }
-
-        .bottom-links a
-        {
-          margin-right: 0.5em;
-        }
-
         nav li
         {
           list-style: none;
           display: inline-block;
         }
+        #content {
+          position:relative;
+        }
+        .logo {
+          position:absolute;
+          top:0;
+          right:0;
+        }
+        .info
+        {
+          font-size: 10pt;
+          color: #85817e;
+        }
+        .info .order-lg-1 p
+        {
+           margin: 1em;
+        }
     </style>
   </head>
+
   <body>
     <div class="row info">
       <div class="col order-lg-2">
         <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
       </div>
-      <div class="col order-lg-1">
+      <div class="col nav order-lg-1">
         <p>Navigation</p>
-        <ul>
+        <ul>          
           <li><a href="help.html">How you can help</a></li>
           <li><a href="team.html">Team</a></li>
+          <li><a href="coordinators.html">National Coordinators</a></li>
         </ul>    
       </div>
 
