@@ -35,3 +35,10 @@ nav li
 #content {
   position:relative;
 }
+
+h1, h2, h3
+{
+	background-color: #ffcc00;
+	color: #0066cc;
+	padding: 0 1em;
+}
