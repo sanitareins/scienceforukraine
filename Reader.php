@@ -84,8 +84,6 @@ class Reader
             $values["lng"] = $matches[2];
         }
 
-        
-
         return $this->_popupData($values);
     }
 
@@ -108,11 +106,23 @@ class Reader
      */
     private function _popupData ($values)
     {
-        $values["popup_data"] = "<p>" . $values["description"] . "</p>";
+        $values["popup_data"] = "";
+        
+        if ($values["institution"])
+        {
+            $values["popup_data"] .= "<p><strong>" . $values["institution"] . "</strong></p>";
+        }
+        
+        $values["popup_data"] .= "<p>" . $values["description"] . "</p>";
 
         if ($values["discipline"])
         {
             $values["popup_data"] .= "<p>" . $values["discipline"] . "</p>";
+        }
+        
+        if ($values["support-period"])
+        {
+            $values["popup_data"] .= "<p>" . $values["support-period"] . "</p>";
         }
 
         $values["popup_data"] .= "<div class=\"bottom-links\">";
