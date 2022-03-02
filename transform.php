@@ -1,3 +1,4 @@
+#!/bin/php
 <?php
 include 'Reader.php';
 

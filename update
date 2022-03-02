@@ -1,5 +1,5 @@
-#~/bin/bash
+#!/bin/bash
 
-scp -r \
+rsync -v -r \
 	web/* \
         web.lfk:/var/www/scienceforukraine.eu
