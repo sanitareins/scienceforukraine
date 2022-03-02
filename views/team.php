@@ -153,8 +153,6 @@ $page->title = "Science for Ukraine - Team";
       <li>Michael Rose<a href="https://twitter.com/Michael_E_Rose" target="_blank"><svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="assets/bootstrap-icons.svg#twitter"/></svg></a> from <a href="https://www.ip.mpg.de/en/" target="_blank">Max Planck Institute for Innovation and Competition</a></li>
     </ul>
     hosted at <a href="https://github.com/zucha/scienceforukraine" target="_blank">GitHub</a>
-
-    <p>We are grateful for support from <a href="https://nep4dissent.eu/" target="_blank">NEP4DISSENT</a>, <a href="http://lulfmi.lv/en/news">ILFA at University of Latvia's Institute</a> and the <a href="https://amu.pan.pl/en/" target="_blank">Polish Young Academy - Polish Academy of Sciences</a>
 </div>
 
 <div class="container bottom">
