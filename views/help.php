@@ -11,6 +11,7 @@ $page->title = "Science for Ukraine - Help";
     <h1>How you can help</h1>
     
     <h2>Institutions</h2>
+    
     <p>Given the uncertain situation the support should be
         provided for the longest possible period, but not
         shorter than 3 months. Even such short offers (i.e., in
@@ -18,21 +19,24 @@ $page->title = "Science for Ukraine - Help";
         scholars time and means to apply for more stable
         positions or grants. Accommodation and office/lab space
         should be included.</p>
+        
     <p>We recommend that organisations collect information
         on support in a coordinated way. If your institution
         does not have a coordinator, perhaps you can act as one
         to collect the offers and submit them to us in a
         coherent way?</p>
-    <p>
-        If you submit offers to us, please use <a
+        
+    <p>If you submit offers to us, please use <a
             href="science_for_ukraine_table.xlsx">this
             template</a> (a Google Spreadsheet). Just duplicate the
         file to your Google Drive or download the file.
     </p>
+    
     <p>
-        Forward the file to <a
+        Forward the file to your <a href="team.html">national coordinator</a> or <a
             href="mailto:sanita.reinsone@lulfmi.lv"
-            target="_blank">Sanita Reinsone</a>
+            target="_blank">Sanita Reinsone</a>. 
+    </p>
     
     <p>Post the information about the support on your
         website! Provide as many details as possible including
