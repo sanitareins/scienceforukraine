@@ -1,14 +1,4 @@
-<?php
-/**
- * Team page
- *
- * @var Page $page
- */
-
-$page->title = "Science for Ukraine - Team";
-?>
 <div class="container info">
-
     <h3>Coordination</h3>
     <p>
         This page is coordinated by <b>Sanita Reinsone</b> <a
@@ -42,11 +32,22 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:brock.laschowski@mail.utoronto.ca" target="_blank">Brock.Laschowski@mail.utoronto.ca</a></li>
       <li>Twitter: <a href="https://twitter.com/DrLaschowski" target="_blank">@DrLaschowski</a></li>
     </ul>
+    <b>Czechia</b>
+    <ul>
+        <<li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
+      <li>Twitter: <a href="https://twitter.com/researchjobs_cz" target="_blank">@researchjobs_cz</a></li>
+    </ul>
     <b>Finland</b>
     <ul>
       <li>Annina Lattu</li>
       <li>E-mail: <a href="mailto:annina.lattu@tuni.fi" target="_blank">Annina.Lattu@tuni.fi</a></li>
       <li>Twitter: <a href="https://twitter.com/anninalattu" target="_blank">@anninalattu</a></li>
+    </ul>
+    <b>France</b>
+    <ul>
+      <li>Iryna Gozhyk</li>
+      <li>E-mail: <a href="mailto:science.gozhyk@gmail.com," target="_blank">Science.Gozhyk@gmail.com,</a></li>
+      <li>Twitter: <a href="https://twitter.com/IrynkaGC" target="_blank">@IrynkaGC</a></li>
     </ul>
     <b>Moldova</b>
     <ul>
@@ -71,6 +72,30 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:o.ivashchenko@lumc.nl" target="_blank">O.Ivashchenko@lumc.nl</a></li>
       <li>Twitter: <a href="https://twitter.com/OleksandraIvas3" target="_blank">@OleksandraIvas3</a></li>
     </ul>
+    <b>Poland</b>
+    <ul>
+      <li>Anna Kłos</li>
+      <li>E-mail: <a href="mailto:anna.klos@wat.edu.pl" target="_blank">Anna.Klos@wat.edu.pl</a></li>
+      <li>Twitter: <a href="https://twitter.com/ania_klos" target="_blank">@ania_klos</a></li>
+    </ul>
+    <b>Portgual</b>
+    <ul>
+      <li>Anna Kłos</li>
+      <li>E-mail: <a href="mailto:ines.figueira@nms.unl.pt" target="_blank">Ines.Figueira@nms.unl.pt</a></li>
+      <li>Twitter: <a href="https://twitter.com/ines_figueira88" target="_blank">@ines_figueira88</a></li>
+    </ul>
+    <b>Romania</b>
+    <ul>
+      <li>Cristina Rujan</li>
+      <li>E-mail: <a href="mailto:cristina.rujan@ip.mpg.de" target="_blank">Cristina.Rujan@ip.mpg.de</a></li>
+      <li>Twitter: <a href="https://twitter.com/Cris_Rjn" target="_blank">@Cris_Rjn</a></li>
+    </ul>
+    <b>Slovakia</b>
+    <ul>
+        <li>Katarina Jurikova</li>
+        <li></li>
+        <li>Twitter: <a href="https://twitter.com/KataJurikova" target="_blank">@KataJurikova</a></
+    </ul>
     <b>Slovenia</b>
     <ul>
       <li>Maryna Shevtsova</li>
@@ -82,17 +107,11 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:johannes.knoerzer@eth-its.ethz.ch" target="_blank">Johannes.Knoerzer@eth-its.ethz.ch</a></li>
       <li>Twitter: <a href="https://twitter.com/KnorzerJohannes" target="_blank">@KnorzerJohannes</a></li>
     </ul>
-    <b>Poland</b>
+    <b>United Kingdom</b>
     <ul>
-      <li>Anna Kłos</li>
-      <li>E-mail: <a href="mailto:anna.klos@wat.edu.pl" target="_blank">Anna.Klos@wat.edu.pl</a></li>
-      <li>Twitter: <a href="https://twitter.com/ania_klos" target="_blank">@ania_klos</a></li>
-    </ul>
-    <b>Romania</b>
-    <ul>
-      <li>Cristina Rujan</li>
-      <li>E-mail: <a href="mailto:cristina.rujan@ip.mpg.de" target="_blank">Cristina.Rujan@ip.mpg.de</a></li>
-      <li>Twitter: <a href="https://twitter.com/Cris_Rjn" target="_blank">@Cris_Rjn</a></li>
+        <li>Anya Skatova</li>
+        <li>E-mail: <a href="mailto:anya.skatova@bristol.ac.uk" target="_blank">Anya.Skatova@bristol.ac.uk</a></li>
+        <li>Twitter: <a href="https://twitter.com/anya_skatova" target="_blank">@anya_skatova</a></li>
     </ul>
 
     <h3>Website</h3>
