@@ -10,7 +10,7 @@ $page->title = "Science for Ukraine - Team";
 
 ?>
 <div class="container info">
-    <h3>Coordination</h3>
+    <h1>Coordination</h1>
     <p>
         This page is coordinated by <b>Sanita Reinsone</b> <a
             href="mailto:sanita.reinsone@lulfmi.lv"> <svg
@@ -54,7 +54,7 @@ $page->title = "Science for Ukraine - Team";
                 <use xlink:href="assets/bootstrap-icons.svg#twitter" /></svg>
         </a> (internal coordination)
 
-<h3>Country coordinators</h3>
+<h2>Country coordinators</h2>
 
     <p>The task of country coordinators is to be in <b>contact with other platforms</b> to coordinate efforts, to follow what's happening in their country in regard to support activities and to <b>add national data</b> (in collected form - if such is provided by any organization).</p>
 
@@ -116,9 +116,9 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:anna.klos@wat.edu.pl" target="_blank">Anna.Klos@wat.edu.pl</a></li>
       <li>Twitter: <a href="https://twitter.com/ania_klos" target="_blank">@ania_klos</a></li>
     </ul>
-    <b>Portgual</b>
+    <b>Portugal</b>
     <ul>
-      <li>Anna Kłos</li>
+      <li>Inês Figueira</li>
       <li>E-mail: <a href="mailto:ines.figueira@nms.unl.pt" target="_blank">Ines.Figueira@nms.unl.pt</a></li>
       <li>Twitter: <a href="https://twitter.com/ines_figueira88" target="_blank">@ines_figueira88</a></li>
     </ul>
@@ -152,7 +152,7 @@ $page->title = "Science for Ukraine - Team";
         <li>Twitter: <a href="https://twitter.com/anya_skatova" target="_blank">@anya_skatova</a></li>
     </ul>
 
-    <h3>Website</h3>
+    <h2>Website</h2>
     <ul>
       <li>Uldis Ķirsis<a href="https://twitter.com/UKirsis" target="_blank"><svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="assets/bootstrap-icons.svg#twitter"/></svg></a> from <a href="http://lulfmi.lv/en/news" target="_blank">University of Latvia, ILFA</a></li>
       <li>Michael Rose<a href="https://twitter.com/Michael_E_Rose" target="_blank"><svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="assets/bootstrap-icons.svg#twitter"/></svg></a> from <a href="https://www.ip.mpg.de/en/" target="_blank">Max Planck Institute for Innovation and Competition</a></li>
