@@ -9,7 +9,7 @@
 $page->title = "Science for Ukraine - Team";
 
 ?>
-    <div class="container info">
+<div class="container info">
     <h3>Coordination</h3>
     <p>
         This page is coordinated by <b>Sanita Reinsone</b> <a
@@ -17,21 +17,23 @@ $page->title = "Science for Ukraine - Team";
                 class="bi" width="16" height="16"
                 fill="currentColor">
                 <use xlink:href="assets/bootstrap-icons.svg#at" /></svg></a>
-        <a href="https://twitter.com/sanitare" target="_blank"><svg
-                class="bi" width="16" height="16"
-                fill="currentColor">
-                <use
-                    xlink:href="assets/bootstrap-icons.svg#twitter" /></svg>
+        <a href="https://twitter.com/sanitare" target="_blank">
+            <svg class="bi" width="16" height="16" fill="currentColor">
+                <use xlink:href="assets/bootstrap-icons.svg#twitter" />
+            </svg>
         </a>
         
-        and her team at <a href="http://lulfmi.lv/en/news">University of Latvia's Institute of Literature, Folklore and Art of the University of Latvia (ILFA)</a>:
-        <ul>
-            <li>Elīna Gailīte</li>
-            <li>Justīne Jaudzema</li>
-            <li>Ilze Ļaksa-Timinska</li>
-            <li>Antra Upeniece</li>
-        </ul>
+        and her team at <a href="http://lulfmi.lv/en/news">University of Latvia's 
+        Institute of Literature, Folklore and Art of the University of Latvia (ILFA)</a>:
     </p>
+        
+    <ul>
+        <li>Elīna Gailīte</li>
+        <li>Justīne Jaudzema</li>
+        <li>Ilze Ļaksa-Timinska</li>
+        <li>Antra Upeniece</li>
+    </ul>
+    
     <p>She is supported by <b>Maciej Maryl</b> <a
             href="mailto:Maciej.Maryl@ibl.waw.pl"> <svg
                 class="bi" width="16" height="16"
@@ -52,7 +54,8 @@ $page->title = "Science for Ukraine - Team";
                 <use xlink:href="assets/bootstrap-icons.svg#twitter" /></svg>
         </a> (internal coordination)
 
-    <h3>Country coordinators</h3>
+<h3>Country coordinators</h3>
+
     <p>The task of country coordinators is to be in <b>contact with other platforms</b> to coordinate efforts, to follow what's happening in their country in regard to support activities and to <b>add national data</b> (in collected form - if such is provided by any organization).</p>
 
     <p>If you are willing to help, get <a href="mailto:michael.rose@ip.mpg.de" target="_blank">in touch</a>!</p>
@@ -64,7 +67,7 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>Czechia</b>
     <ul>
-        <<li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
+      <li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
       <li>Twitter: <a href="https://twitter.com/researchjobs_cz" target="_blank">@researchjobs_cz</a></li>
     </ul>
     <b>Finland</b>
