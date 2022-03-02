@@ -8,9 +8,9 @@
 $page->title = "Science for Ukraine - Help";
 ?>
 <div class="container info">
-    <h2>How you can help</h2>
+    <h1>How you can help</h1>
     
-    <h3>Institutions</h3>
+    <h2>Institutions</h2>
     <p>Given the uncertain situation the support should be
         provided for the longest possible period, but not
         shorter than 3 months. Even such short offers (i.e., in
@@ -45,7 +45,7 @@ $page->title = "Science for Ukraine - Help";
         advice about #ScienceForUkraine.
     </p>
 
-    <h3>Individuals</h3>
+    <h2>Individuals</h2>
     
     <ul>
       <li>If you hear about positions with short-term availability <b>dedicated</b> to Ukrainian researchers on Twitter, please retweet using the hashtag <a href="https://twitter.com/hashtag/ScienceForUkraine?src=hashtag_click">#ScienceForUkraine</a>.</li>

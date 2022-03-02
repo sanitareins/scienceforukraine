@@ -23,7 +23,7 @@
     <title><?= htmlspecialchars($page->title) ?></title>
     <link href="assets/leaflet/leaflet.css" rel="stylesheet">
     <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/local_css/default_page.css" rel="stylesheet">
+    <link href="assets/local_css/default_page.css?v=<?= time(); ?>" rel="stylesheet">
         
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BVWXGWBK9R"></script>
@@ -39,7 +39,7 @@
   <body>
     <div class="row info">
       <div class="col order-lg-2">
-        <a href="index.html">
+        <a href="/">
           <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
         </a>
       </div>

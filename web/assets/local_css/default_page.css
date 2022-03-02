@@ -35,6 +35,18 @@ nav li
 #content {
   position:relative;
 }
+h1
+{
+	font-size: 24pt;
+}
+h2
+{
+    font-size: 21pt;
+}
+h3
+{
+    font-size: 18pt;
+}
 
 h1, h2, h3
 {
