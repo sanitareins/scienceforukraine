@@ -12,6 +12,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="#ScienceForUkraine is a voluntary initiative whose mission is to support students and researchers from Ukraine directly affected by the Russia’s invasion." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
     <title><?= htmlspecialchars($page->title) ?></title>
     <link href="assets/leaflet/leaflet.css" rel="stylesheet">
     <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -31,7 +33,9 @@
   <body>
     <div class="row info">
       <div class="col order-lg-2">
-        <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
+        <a href="index.html">
+          <img src="assets/sfu-banner.png" alt="Science For Ukraine " class="logo" />
+        </a>
       </div>
       <div class="col nav order-lg-1">
         <p>Navigation</p>
