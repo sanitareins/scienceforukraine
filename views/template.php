@@ -1,3 +1,10 @@
+<?php 
+/**
+ * Main template
+ * 
+ * @var Page $page
+ */
+?>
 <!doctype html>
 <html lang="lv">
   <head>
@@ -5,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="#ScienceForUkraine is a voluntary initiative whose mission is to support students and researchers from Ukraine directly affected by the Russia’s invasion." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Science for Ukraine</title>
+    <title><?= htmlspecialchars($page->title) ?></title>
     <link href="assets/leaflet/leaflet.css" rel="stylesheet">
     <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="assets/local_css/default_page.css" rel="stylesheet">
@@ -36,32 +43,8 @@
       <div class="col order-lg-3"></div>
     </div>
 
-    <nav class="text-center">
-  <ul>
-    <li>
-      <button class="btn btn-secondary">
-        Researchers
-      </button>
-    </li>
-    <li>
-      <button class="btn btn-secondary">
-        Students
-      </button>
-    </li>
-    <li>
-      <button class="btn btn-secondary">
-        Accommodation
-      </button>
-    </li>
-    <li>
-      <button class="btn btn-secondary">
-        Funding
-      </button>
-    </li>
-  </ul>
-</nav>
+    <?= $page->content ?>
 
-<div id="example-map" class="osm-map" style="height: 600px;"></div>
     <script src="assets/leaflet/leaflet.js"></script>
     <script src="assets/load_map.js"></script>
     <script>L.Icon.Default.imagePath = 'assets/leaflet/images/';</script>  
