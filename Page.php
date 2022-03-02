@@ -92,4 +92,20 @@ class Page
         
         $this->content = ob_get_clean();
     }
+    
+    /**
+     * TIme of last
+     * <day-name>, <day> <month> <year> <hour>:<minute>:<second> GMT
+     * 
+     * @return string
+     */
+    public function getDateGMT()
+    {
+        $dateTime = new DateTime();
+        
+        $timeZone = new DateTimeZone("GMT");
+        $dateTime->setTimezone($timeZone);
+        
+        return $dateTime->format("D, d M Y H:i:s") . " GMT";
+    }
 }
