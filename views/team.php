@@ -70,6 +70,11 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
       <li>Twitter: <a href="https://twitter.com/researchjobs_cz" target="_blank">@researchjobs_cz</a></li>
     </ul>
+    <b>Czechia</b>
+    <ul>
+      <li>E-mail: <a href="mailto:arogers@sodas.ku.dk" target="_blank">ARogers@sodas.ku.dk</a></li>
+      <li>Twitter: <a href="https://twitter.com/annargrs" target="_blank">@annargrs</a></li>
+    </ul>
     <b>Finland</b>
     <ul>
       <li>Annina Lattu</li>
@@ -79,7 +84,7 @@ $page->title = "Science for Ukraine - Team";
     <b>France</b>
     <ul>
       <li>Iryna Gozhyk</li>
-      <li>E-mail: <a href="mailto:science.gozhyk@gmail.com," target="_blank">Science.Gozhyk@gmail.com,</a></li>
+      <li>E-mail: <a href="mailto:science.gozhyk@gmail.com," target="_blank">Science.Gozhyk@gmail.com</a></li>
       <li>Twitter: <a href="https://twitter.com/IrynkaGC" target="_blank">@IrynkaGC</a></li>
     </ul>
     <b>Moldova</b>
