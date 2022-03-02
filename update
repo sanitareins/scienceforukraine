@@ -1,5 +1,0 @@
-#!/bin/bash
-
-rsync -v -r \
-	web/* \
-        web.lfk:/var/www/scienceforukraine.eu
