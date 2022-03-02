@@ -13,6 +13,12 @@
     <meta name="description" content="#ScienceForUkraine is a voluntary initiative whose mission is to support students and researchers from Ukraine directly affected by the Russia’s invasion." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="Last-Modified" content="<?= $page->getDateGMT() ?>" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@Sci_for_Ukraine" />
+    <meta name="twitter:creator" content="@sanitare" />
+    <meta property="og:title" content="<?= htmlspecialchars($page->title) ?>" />
+    <meta property="og:description" content="#ScienceForUkraine is a voluntary initiative whose mission is to support students and researchers from Ukraine directly affected by the Russia’s invasion." />
+    <meta property="og:image" content="https://scienceforukraine.eu/assets/flag-cover.jpg"/>
     
     <title><?= htmlspecialchars($page->title) ?></title>
     <link href="assets/leaflet/leaflet.css" rel="stylesheet">
