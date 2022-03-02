@@ -94,7 +94,7 @@ class Page
     }
     
     /**
-     * TIme of last
+     * TIme of last update
      * <day-name>, <day> <month> <year> <hour>:<minute>:<second> GMT
      * 
      * @return string

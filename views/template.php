@@ -42,6 +42,7 @@
         <ul>          
           <li><a href="help.html">How you can help</a></li>
           <li><a href="team.html">Team/Contact</a></li>
+          <li><a href="about.html">About</a></li>
           <li><a href="https://twitter.com/Sci_for_Ukraine" target="_blank"><svg
                 class="bi" width="16" height="16"
                 fill="currentColor">
@@ -54,6 +55,10 @@
     </div>
 
     <?= $page->content ?>
+
+    <footer class="container">
+        Last update: <?= $page->getDateGMT() ?>
+    </footer>
 
     <script src="assets/leaflet/leaflet.js"></script>
     <script src="assets/load_map.js"></script>
