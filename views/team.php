@@ -59,6 +59,12 @@ $page->title = "Science for Ukraine - Team";
     <p>The task of country coordinators is to be in <b>contact with other platforms</b> to coordinate efforts, to follow what's happening in their country in regard to support activities and to <b>add national data</b> (in collected form - if such is provided by any organization).</p>
 
     <p>If you are willing to help, get <a href="mailto:michael.rose@ip.mpg.de" target="_blank">in touch</a>!</p>
+    <b>Austria</b>
+    <ul>
+      <li>Irena Remestwenski</li>
+      <li>E-mail: <a href="mailto:irena.remestwenski@univie.ac.at" target="_blank">Irena.Remestwenski@univie.ac.at</a></li>
+      <li>Twitter: <a href="https://twitter.com/remestwenski" target="_blank">@remestwenski</a></li>
+    </ul>
     <b>Canada</b>
     <ul>
       <li>Brokoslaw Laschowski</li>
@@ -70,10 +76,17 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
       <li>Twitter: <a href="https://twitter.com/researchjobs_cz" target="_blank">@researchjobs_cz</a></li>
     </ul>
-    <b>Czechia</b>
+    <b>Denmark</b>
     <ul>
+      <li>Anna Rogers</li>
       <li>E-mail: <a href="mailto:arogers@sodas.ku.dk" target="_blank">ARogers@sodas.ku.dk</a></li>
       <li>Twitter: <a href="https://twitter.com/annargrs" target="_blank">@annargrs</a></li>
+    </ul>
+    <b>Estonia</b>
+    <ul>
+      <li>Mari Valdur</li>
+      <li>E-mail: <a href="mailto:valdur@tlu.ee" target="_blank">Valdur@tlu.ee</a></li>
+      <li>Twitter: <a href="https://twitter.com/MariValdur" target="_blank">@MariValdur</a></li>
     </ul>
     <b>Finland</b>
     <ul>
