@@ -30,6 +30,10 @@ $page->title = "Science for Ukraine - About";
             href="https://amu.pan.pl/en/" target="_blank">Polish Young
             Academy - Polish Academy of Sciences</a>
     </p>
+    
+    <p>
+        <a href="assets/Web-20220303T184422Z-001.zip">Banners you can use to promote the initative on your website or in social media.</a>
+    </p>
 </div>
 
 <div class="container bottom">
