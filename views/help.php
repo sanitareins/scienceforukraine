@@ -28,7 +28,7 @@ $page->title = "Science for Ukraine - Help";
         
     <p>If you submit offers to us, please use <a
             href="science_for_ukraine_table.xlsx">this
-            template</a> (a Google Spreadsheet). Just duplicate the
+            template</a> (Excel). Just duplicate the
         file to your Google Drive or download the file.
     </p>
     

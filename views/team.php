@@ -13,27 +13,19 @@ $page->title = "Science for Ukraine - Team";
     <h1>Coordination</h1>
     <p>
         This page is coordinated by <b>Sanita Reinsone</b> <a
-            href="mailto:sanita.reinsone@lulfmi.lv"> <svg
-                class="bi" width="16" height="16"
-                fill="currentColor">
+            href="mailto:sanita.reinsone@lulfmi.lv"> <svg class="bi"
+                width="16" height="16" fill="currentColor">
                 <use xlink:href="assets/bootstrap-icons.svg#at" /></svg></a>
-        <a href="https://twitter.com/sanitare" target="_blank">
-            <svg class="bi" width="16" height="16" fill="currentColor">
+        <a href="https://twitter.com/sanitare" target="_blank"> <svg
+                class="bi" width="16" height="16" fill="currentColor">
                 <use xlink:href="assets/bootstrap-icons.svg#twitter" />
             </svg>
-        </a>
-        
-        and her team at <a href="http://lulfmi.lv/en/news">University of Latvia's 
-        Institute of Literature, Folklore and Art of the University of Latvia (ILFA)</a>:
+        </a> and her team at <a href="http://lulfmi.lv/en/news">University
+            of Latvia's Institute of Literature, Folklore and Art of the
+            University of Latvia (ILFA)</a>: Elīna Gailīte, Justīne
+        Jaudzema, Ilze Ļaksa-Timinska, Antra Upeniece
     </p>
-        
-    <ul>
-        <li>Elīna Gailīte</li>
-        <li>Justīne Jaudzema</li>
-        <li>Ilze Ļaksa-Timinska</li>
-        <li>Antra Upeniece</li>
-    </ul>
-    
+
     <p>She is supported by <b>Maciej Maryl</b> <a
             href="mailto:Maciej.Maryl@ibl.waw.pl"> <svg
                 class="bi" width="16" height="16"

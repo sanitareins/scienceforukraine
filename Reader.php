@@ -115,10 +115,10 @@ class Reader
         
         $values["popup_data"] .= "<p>" . $values["description"] . "</p>";
 
-        if ($values["discipline"])
+        /* if ($values["discipline"])
         {
             $values["popup_data"] .= "<p>" . $values["discipline"] . "</p>";
-        }
+        } */
         
         if ($values["support-period"])
         {
