@@ -151,6 +151,12 @@ $page->title = "Science for Ukraine - Team";
       <li>Maryna Shevtsova</li>
       <li>E-mail: <a href="mailto:Shevtsova.Maryna@gmail.com" target="_blank">Shevtsova.Maryna@gmail.com</a></li>
     </ul>
+    <b>Spain</b>
+    <ul>
+        <li>Albert Palou Vilar and Sergio Ponsá Salas</li>
+        <li>E-mail: <a href="mailto:albert.palou@uvic.cat" target="_blank">Albert.Palou@uvic.cat</a> or <a href="mailto:sergio.ponsa@uvic.cat" target="_blank">Sergio.Ponsa@uvic.cat</a></li>
+        <li>Twitter: <a href="https://twitter.com/AlbPalou" target="_blank">@AlbPalou</a> or <a href="https://twitter.com/SergioPonsa" target="_blank">@SergioPonsa</a></li>
+    </ul>
     <b>Switzerland</b>
     <ul>
       <li>Johannes Knörzer</li>
