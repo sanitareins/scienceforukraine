@@ -95,9 +95,9 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>Italy</b>
     <ul>
-        <li>Eleonora Losiouk</li>
-        <li>E-mail: <a href="mailto:elosiouk@math.unipd.it" target="_blank">Elosiouk@math.unipd.it</a></li>
-        <li>Twitter: <a href="https://twitter.com/losiouk" target="_blank">@losiouk</a></li>
+        <li>Marcin Bartosiak</li>
+        <li>E-mail: <a href="mailto:marcin.bartosiak@unipv.it" target="_blank">Marcin.Bartosiak@unipv.it</a></li>
+        <!-- <li>Twitter: <a href="https://twitter.com/losiouk" target="_blank">@losiouk</a></li> -->
     </ul>
     <b>Moldova</b>
     <ul>
