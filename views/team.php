@@ -35,7 +35,7 @@ $page->title = "Science for Ukraine - Team";
                 class="bi" width="16" height="16"
                 fill="currentColor">
                 <use xlink:href="assets/bootstrap-icons.svg#twitter" /></svg>
-        </a> (outreach coordination) and <b>Michael Rose</b> <a
+        </a> (outreach coordination/press relations) and <b>Michael Rose</b> <a
             href="mailto:michael.rose@ip.mpg.de"> <svg
                 class="bi" width="16" height="16"
                 fill="currentColor">
@@ -44,7 +44,7 @@ $page->title = "Science for Ukraine - Team";
                 class="bi" width="16" height="16"
                 fill="currentColor">
                 <use xlink:href="assets/bootstrap-icons.svg#twitter" /></svg>
-        </a> (internal coordination)
+        </a> (internal coordination/onbording)
 
 <h2>Country coordinators</h2>
 
@@ -94,8 +94,9 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>Moldova</b>
     <ul>
-      <li>Maria Caraman</li>
-      <li>E-mail: <a href="mailto:caraman.c.maria@gmail.com" target="_blank">Caraman.C.Maria@gmail.com</a></li>
+      <li>Nicoleta Spînu</li>
+      <li>E-mail: <a href="mailto:N.Spinu@ljmu.ac.uk" target="_blank">N.Spinu@ljmu.ac.uk</a></li>
+      <li>Twitter: <a href="https://twitter.com/nicospinu" target="_blank">@nicospinu</a></li>
     </ul>
     <!-- <b>Germany</b>
     <ul>
@@ -152,9 +153,9 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>United Kingdom</b>
     <ul>
-        <li>Anya Skatova</li>
-        <li>E-mail: <a href="mailto:anya.skatova@bristol.ac.uk" target="_blank">Anya.Skatova@bristol.ac.uk</a></li>
-        <li>Twitter: <a href="https://twitter.com/anya_skatova" target="_blank">@anya_skatova</a></li>
+        <li>Anya Skatova and Susan Spesyvtseva</li>
+        <li>E-mail: <a href="mailto:anya.skatova@bristol.ac.uk" target="_blank">Anya.Skatova@bristol.ac.uk</a> or <a href="mailto:susan.spesyvtseva@strath.ac.uk" target="_blank">Susan.Spesyvtseva@strath.ac.uk</a></li>
+        <li>Twitter: <a href="https://twitter.com/anya_skatova" target="_blank">@anya_skatova</a> or <a href="https://twitter.com/S_Spesyvtseva" target="_blank">@S_Spesyvtseva</a> </li>
     </ul>
 
     <h2>Website</h2>
