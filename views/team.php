@@ -65,6 +65,7 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>Czechia</b>
     <ul>
+      <li>Martin Víta</li>
       <li>E-mail: <a href="mailto:info@martinvita.eu" target="_blank">info@martinvita.eu</a></li>
       <li>Twitter: <a href="https://twitter.com/researchjobs_cz" target="_blank">@researchjobs_cz</a></li>
     </ul>
@@ -104,10 +105,10 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:N.Spinu@ljmu.ac.uk" target="_blank">N.Spinu@ljmu.ac.uk</a></li>
       <li>Twitter: <a href="https://twitter.com/nicospinu" target="_blank">@nicospinu</a></li>
     </ul>
-    <!-- <b>Germany</b>
+    <!--<b>Germany</b>
     <ul>
-      <li>Michael Rose</li>
-      <li>E-mail: <a href="mailto:Michael.Rose@ip.mpg.de" target="_blank">Michael.Rose@ip.mpg.de</a></li>
+      <li>Julia Gerda</li>
+      <li>E-mail: <a href="mailto:i.gerda@fs.de" target="_blank">I.Gerda@fs.de</a></li>
       <li>Twitter: <a href="https://twitter.com/Michael_E_Rose" target="_blank">@Michael_E_Rose</a></li>
     </ul> -->
     <b>Latvia</b>
