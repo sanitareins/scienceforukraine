@@ -92,6 +92,12 @@ $page->title = "Science for Ukraine - Team";
       <li>E-mail: <a href="mailto:science.gozhyk@gmail.com," target="_blank">Science.Gozhyk@gmail.com</a></li>
       <li>Twitter: <a href="https://twitter.com/IrynkaGC" target="_blank">@IrynkaGC</a></li>
     </ul>
+    <b>Italy</b>
+    <ul>
+        <li>Eleonora Losiouk</li>
+        <li>E-mail: <a href="mailto:elosiouk@math.unipd.it" target="_blank">Elosiouk@math.unipd.it</a></li>
+        <li>Twitter: <a href="https://twitter.com/losiouk" target="_blank">@losiouk</a></li>
+    </ul>
     <b>Moldova</b>
     <ul>
       <li>Nicoleta Spînu</li>
