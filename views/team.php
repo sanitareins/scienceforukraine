@@ -50,7 +50,7 @@ $page->title = "Science for Ukraine - Team";
 
     <p>The task of country coordinators is to be in <b>contact with other platforms</b> to coordinate efforts, to follow what's happening in their country in regard to support activities and to <b>add national data</b> (in collected form - if such is provided by any organization).</p>
 
-    <p>If you are willing to help, get <a href="mailto:michael.rose@ip.mpg.de" target="_blank">in touch</a>!</p>
+    <p>If you are willing to help, get <a href="mailto:sanita.reinsone@lulfmi.lv" target="_blank">in touch</a>!</p>
     <b>Austria</b>
     <ul>
       <li>Irena Remestwenski</li>
@@ -62,6 +62,12 @@ $page->title = "Science for Ukraine - Team";
       <li>Brokoslaw Laschowski</li>
       <li>E-mail: <a href="mailto:brock.laschowski@mail.utoronto.ca" target="_blank">Brock.Laschowski@mail.utoronto.ca</a></li>
       <li>Twitter: <a href="https://twitter.com/DrLaschowski" target="_blank">@DrLaschowski</a></li>
+    </ul>
+    <b>Cyprus</b>
+    <ul>
+      <li>Marlen Vasquez</li>
+      <li>E-mail: <a href="mailto:marlen.vasquez@cut.ac.cy" target="_blank">Marlen.Vasquez@cut.ac.cy</a></li>
+      <li>Twitter: <a href="https://twitter.com/marlenivasquezh" target="_blank">@marlenivasquezh</a></li>
     </ul>
     <b>Czechia</b>
     <ul>
