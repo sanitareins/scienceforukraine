@@ -25,6 +25,8 @@
     <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="assets/local_css/default_page.css?v=<?= time(); ?>" rel="stylesheet">
         
+    <link href="assets/tabulator/css/tabulator.css" rel="stylesheet">
+        
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-BVWXGWBK9R"></script>
     <script>
@@ -45,7 +47,8 @@
       </div>
       <div class="col nav order-lg-1">
         <p>Navigation</p>
-        <ul>          
+        <ul>
+          <li><a href="table.html">Institutions</a></li>          
           <li><a href="help.html">How you can help</a></li>
           <li><a href="team.html">Team/Contact</a></li>
           <li><a href="about.html">About</a></li>

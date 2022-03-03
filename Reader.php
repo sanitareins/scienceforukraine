@@ -135,6 +135,21 @@ class Reader
             $values["popup_data"] .= '</a>';
         }
 
+        $values["popup_data"] .= $this->_contact($values);
+ 
+        $values["popup_data"] .= "</div>";
+
+        return $values;
+    }
+    
+    /**
+     * 
+     * @param string $values
+     * @return string
+     */
+    private function _contact (&$values)
+    {
+        $return = "";
         if ($values["contact"])
         {
             if (strstr($values["contact"], "@"))
@@ -145,24 +160,24 @@ class Reader
                 $contact = "call:" . $values["contact"];
             }
             
-            $values["popup_data"] .= sprintf('<a href="%s">', $contact);
-            $values["popup_data"] .= '<svg class="bi" width="16" height="16" fill="currentColor">';
-            $values["popup_data"] .= '<use xlink:href="assets/bootstrap-icons.svg#at"/>';
-            $values["popup_data"] .= '</svg>';
-            $values["popup_data"] .= '</a>';
+            $return .= sprintf('<a href="%s">', $contact);
+            $return .= '<svg class="bi" width="16" height="16" fill="currentColor">';
+            $return .= '<use xlink:href="assets/bootstrap-icons.svg#at"/>';
+            $return .= '</svg>';
+            $return .= '</a>';
         }
-
+        
         if ($values["tweet"])
         {
-            $values["popup_data"] .= sprintf('<a href="%s" target="_blank">', $values["tweet"]);
-            $values["popup_data"] .= '<svg class="bi" width="16" height="16" fill="currentColor">';
-            $values["popup_data"] .= '<use xlink:href="assets/bootstrap-icons.svg#twitter"/>';
-            $values["popup_data"] .= '</svg>';
-            $values["popup_data"] .= '</a>';
+            $return .= sprintf('<a href="%s" target="_blank">', $values["tweet"]);
+            $return .= '<svg class="bi" width="16" height="16" fill="currentColor">';
+            $return .= '<use xlink:href="assets/bootstrap-icons.svg#twitter"/>';
+            $return .= '</svg>';
+            $return .= '</a>';
         }
- 
-        $values["popup_data"] .= "</div>";
-
-        return $values;
+        
+        $values["contact-column"] = $return;
+        
+        return $return;
     }
 }
