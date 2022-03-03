@@ -43,6 +43,22 @@ function drawMarkers (filters)
         {
             addMarker = false;
         }
+        if (poinData['all-disciplines'] != "Yes" && filters.find( (v) => { return v=='all-disciplines'; } ) )
+        {
+            addMarker = false;
+        }
+        if (poinData['humanities-social-science'] != "Yes" && filters.find( (v) => { return v=='humanities-social-science'; } ) )
+        {
+            addMarker = false;
+        }
+        if (poinData['natural-science'] != "Yes" && filters.find( (v) => { return v=='natural-science'; } ) )
+        {
+            addMarker = false;
+        }
+        if (poinData['engineering'] != "Yes" && filters.find( (v) => { return v=='engineering'; } ) )
+        {
+            addMarker = false;
+        }
         
         if (addMarker)
         {
@@ -75,7 +91,7 @@ function eventFilter(event)
 
     var filters = [];
     document.querySelectorAll ("nav button.btn-light").forEach((button) => {
-        filters.push(button.innerText.toLowerCase());
+        filters.push( button.getAttribute('data-field') );
     });
     
     drawMarkers(filters);

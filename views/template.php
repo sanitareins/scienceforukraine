@@ -73,7 +73,7 @@
     <script src="assets/load_map.js"></script>
     <script>L.Icon.Default.imagePath = 'assets/leaflet/images/';</script>  
     <script src="data.js?v=<?= time(); ?>"></script>
-    <script src="draw.js?v=3"></script>
+    <script src="draw.js?v=4"></script>
 </body>
 
 

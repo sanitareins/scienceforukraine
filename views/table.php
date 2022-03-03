@@ -32,8 +32,13 @@ $page->title = "Science for Ukraine - Institutions";
       </button>
     </li>
     <li>
-      <button class="btn btn-secondary" data-field="fundings">
+      <button class="btn btn-secondary" data-field="funding">
         Funding
+      </button>
+    </li>
+    <li>
+      <button class="btn btn-info" data-field="all-disciplines">
+        All disciplines
       </button>
     </li>
     <li>
