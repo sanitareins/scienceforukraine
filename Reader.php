@@ -36,7 +36,8 @@ class Reader
     private function _headers ($row)
     {
         $row = array_map(function ($value) {
-            return str_replace(" ", "-", strtolower($value));
+            $value = str_replace(" ", "-", strtolower($value));
+            return str_replace("/", "-", $value );
         }, $row);
 
         $this->headers = $row;
