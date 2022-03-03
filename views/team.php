@@ -101,9 +101,8 @@ $page->title = "Science for Ukraine - Team";
     </ul>
     <b>Moldova</b>
     <ul>
-      <li>Nicoleta Spînu</li>
-      <li>E-mail: <a href="mailto:N.Spinu@ljmu.ac.uk" target="_blank">N.Spinu@ljmu.ac.uk</a></li>
-      <li>Twitter: <a href="https://twitter.com/nicospinu" target="_blank">@nicospinu</a></li>
+      <li>Maria Caraman</li>
+      <li>E-mail: <a href="mailto:Caraman.C.Maria@gmail.com" target="_blank">Caraman.C.Maria@gmail.com</a></li>
     </ul>
     <!--<b>Germany</b>
     <ul>
