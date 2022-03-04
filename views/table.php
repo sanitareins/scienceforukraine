@@ -10,7 +10,7 @@ $page->title = "Science for Ukraine - Institutions";
 
 ?>
 <script src="assets/tabulator/js/tabulator.js"></script>
-<script src="assets/table.js"></script>
+<script src="assets/table.js?v=2"></script>
 
 <h1>Institutions</h1>
 
@@ -37,11 +37,6 @@ $page->title = "Science for Ukraine - Institutions";
       </button>
     </li>
     <li>
-      <button class="btn btn-info" data-field="all-disciplines">
-        All disciplines
-      </button>
-    </li>
-    <li>
       <button class="btn btn-info" data-field="humanities-social-science">
         Humanities
       </button>
@@ -54,6 +49,11 @@ $page->title = "Science for Ukraine - Institutions";
     <li>
       <button class="btn btn-info" data-field="engineering">
         Engineering
+      </button>
+    </li>
+    <li>
+      <button class="btn btn-info" data-field="unspecified">
+        Unspecified
       </button>
     </li>
   </ul>

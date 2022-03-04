@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
             document.querySelectorAll ("nav button.btn-light").forEach((button) => {
                 filters.push({
                     field: button.getAttribute('data-field'),
-                    type: '=',
+                    type: 'like',
                     value: 'Yes'
                 });
             });

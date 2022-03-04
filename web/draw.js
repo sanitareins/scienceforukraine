@@ -27,35 +27,35 @@ function drawMarkers (filters)
     
     mapData.forEach((poinData) => {        
         var addMarker = true;
-        if (poinData.researchers != "Yes" && filters.find( (v) => { return v=='researchers'; } ) )
+        if (poinData.researchers.toLowerCase() != "yes" && filters.find( (v) => { return v=='researchers'; } ) )
         {
             addMarker = false;
         }
-        if (poinData.students != "Yes" && filters.find( (v) => { return v=='students'; } ) )
+        if (poinData.students.toLowerCase() != "yes" && filters.find( (v) => { return v=='students'; } ) )
         {
             addMarker = false;
         }
-        if (poinData.accommodation != "Yes" && filters.find( (v) => { return v=='accommodation'; } ) )
+        if (poinData.accommodation.toLowerCase() != "yes" && filters.find( (v) => { return v=='accommodation'; } ) )
         {
             addMarker = false;
         }
-        if (poinData.funding != "Yes" && filters.find( (v) => { return v=='funding'; } ) )
+        if (poinData.funding.toLowerCase() != "yes" && filters.find( (v) => { return v=='funding'; } ) )
         {
             addMarker = false;
         }
-        if (poinData['all-disciplines'] != "Yes" && filters.find( (v) => { return v=='all-disciplines'; } ) )
+        if (poinData['unspecified'].toLowerCase() != "yes" && filters.find( (v) => { return v=='unspecified'; } ) )
         {
             addMarker = false;
         }
-        if (poinData['humanities-social-science'] != "Yes" && filters.find( (v) => { return v=='humanities-social-science'; } ) )
+        if (poinData['humanities-social-science'].toLowerCase() != "yes" && filters.find( (v) => { return v=='humanities-social-science'; } ) )
         {
             addMarker = false;
         }
-        if (poinData['natural-science'] != "Yes" && filters.find( (v) => { return v=='natural-science'; } ) )
+        if (poinData['natural-science'].toLowerCase() != "yes" && filters.find( (v) => { return v=='natural-science'; } ) )
         {
             addMarker = false;
         }
-        if (poinData['engineering'] != "Yes" && filters.find( (v) => { return v=='engineering'; } ) )
+        if (poinData['engineering'].toLowerCase() != "yes" && filters.find( (v) => { return v=='engineering'; } ) )
         {
             addMarker = false;
         }

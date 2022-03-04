@@ -32,11 +32,6 @@ $page->title = "Science for Ukraine";
       </button>
     </li>
     <li>
-      <button class="btn btn-info" data-field="all-disciplines">
-        All disciplines
-      </button>
-    </li>
-    <li>
       <button class="btn btn-info" data-field="humanities-social-science">
         Humanities
       </button>
@@ -49,6 +44,11 @@ $page->title = "Science for Ukraine";
     <li>
       <button class="btn btn-info" data-field="engineering">
         Engineering
+      </button>
+    </li>
+    <li>
+      <button class="btn btn-info" data-field="unspecified">
+        Unspecified
       </button>
     </li>
   </ul>

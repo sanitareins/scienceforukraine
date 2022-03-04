@@ -34,7 +34,7 @@ $page->title = "Science for Ukraine - About";
     <p>
         <a href="assets/Web-20220303T184422Z-001.zip">Banners you can use to promote the initative on your website or in social media.</a>
     </p>
-    
+
     <p>
         <a href="assets/Leaflet-20220304T102243Z-001.zip">Leaflets about the #ScienceForUkraine for online use and print</a>
     </p>
