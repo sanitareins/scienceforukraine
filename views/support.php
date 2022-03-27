@@ -99,7 +99,7 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	<h2>Europe</h2>
 	<br>
 	<h3>Austria</h3>
-	     <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	     <p><svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.at/ukraine" target="_blank">https://www.euraxess.at/ukraine</a></p>
 	<p><b>Funding programmes</b></p>
 	<ul>
@@ -123,7 +123,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>
     <h3>Belgium</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.be/ukraine" target="_blank">https://www.euraxess.be/ukraine</a></p>
 	<p><b>Funding programmes</b></p>
 	<ul>
@@ -135,7 +136,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>
 	<h3>Bulgaria</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.bg/ukraine" target="_blank">https://www.euraxess.bg/ukraine</a></p>
 	<p><b>Funding programmes, support for students</b></p>
 	<ul>
@@ -144,7 +146,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>
 	<h3>Denmark</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.dk/ukraine" target="_blank">https://www.euraxess.dk/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
@@ -153,7 +156,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
 	<br>   
 	<h3>Finland</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.fi/ukraine" target="_blank">https://www.euraxess.fi/ukraine</a></p>
 	<p><b>Funding programmes</b></p>
 	<ul>
@@ -162,7 +166,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>
     <h3>France</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.fr/ukraine" target="_blank">https://www.euraxess.fr/ukraine</a></p>
 	<p><b>Funding programmes</b></p>
 	<ul>
@@ -188,7 +193,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
 	<br>
 	<h3>Germany</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.de/ukraine" target="_blank">https://www.euraxess.de/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <p><i><a href="https://bit.ly/3tvL2po" target="_blank">Help and funding opportunities in and from academia</a>, especially in Germany.<br>An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)</i></p>
@@ -234,7 +240,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>   
 	<h3>Israel</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.org.il/ukraine" target="_blank">https://www.euraxess.org.il/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
@@ -289,7 +296,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	<br>
 	<h3>Netherlands</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.nl/ukraine" target="_blank">https://www.euraxess.nl/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
@@ -298,7 +306,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>	
 	<br>
     <h3>Norway</h3>
-	          <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	          <p><svg class="bi" width="16" height="16" fill="currentColor">
+			  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.no/ukraine" target="_blank">https://www.euraxess.no/ukraine</a></p>
 	<p><b>Funding programmes</b></p>
 	<ul>
@@ -307,7 +316,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 
 	<br>
 	<h3>Poland</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.pl/ukraine" target="_blank">https://www.euraxess.pl/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
@@ -330,7 +340,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
     <h3>Portugal</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.pt/ukraine" target="_blank">https://www.euraxess.pt/ukraine</a></p>
     <p><b>Other support</b></p>
     <ul>
@@ -349,7 +360,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
     <h3>Romania</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.gov.ro/ukraine" target="_blank">https://www.euraxess.gov.ro/ukraine</a></p>
 	<p><b>Other support</b></p>
 	<ul>
@@ -363,7 +375,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	</br>
 	<h3>Slovakia</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.sk/ukraine" target="_blank">https://www.euraxess.sk/ukraine</a></p>
 	<p><b>Other support</b></p>
 		<ul>
@@ -374,7 +387,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 		</ul>
 	<br>
 	<h3>Sweden</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.se/ukraine" target="_blank">https://www.euraxess.se/ukraine</a></p>
     
 	<p><b>Funding programmes</b></p>
@@ -387,7 +401,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
 	<h3>Switzerland</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.ch/ukraine" target="_blank">https://www.euraxess.ch/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
@@ -412,7 +427,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
 	<br>
 	<h3>U.K.</h3>
-	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+	      <p><svg class="bi" width="16" height="16" fill="currentColor">
+		  <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
         </svg>  ERA4Ukraine <a href="https://www.euraxess.org.uk/ukraine" target="_blank">https://www.euraxess.org.uk/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
