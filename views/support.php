@@ -307,6 +307,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 
 	<br>
 	<h3>Poland</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.pl/ukraine" target="_blank">https://www.euraxess.pl/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
         <li>Polish Academy of Sciences, with cooperation and funding from the US National Academy of Sciences, offers funds for 3-month visits of Ukrainian scholars (with a PhD degree) in Poland<br>
@@ -328,6 +330,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
     <h3>Portugal</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.pt/ukraine" target="_blank">https://www.euraxess.pt/ukraine</a></p>
     <p><b>Other support</b></p>
     <ul>
         <li>Portugal for Ukraine <a href="https://www.dgert.gov.pt/portugal-for-ukraine" target="_blank">https://www.dgert.gov.pt/portugal-for-ukraine</a></li>
@@ -345,6 +349,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
     <h3>Romania</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.gov.ro/ukraine" target="_blank">https://www.euraxess.gov.ro/ukraine</a></p>
 	<p><b>Other support</b></p>
 	<ul>
 		<li>Government platform with info for refugees <a href="https://dopomoha.ro/uk" target="_blank">https://dopomoha.ro/uk</a></li>
@@ -357,6 +363,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 	</ul>
 	</br>
 	<h3>Slovakia</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.sk/ukraine" target="_blank">https://www.euraxess.sk/ukraine</a></p>
 	<p><b>Other support</b></p>
 		<ul>
 			<li>Slovak Academic Information Agency (SAIA): a comprehensive list of opportunities for study and academic exchange for Ukrainian students in Slovakia<br>
@@ -366,6 +374,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
 		</ul>
 	<br>
 	<h3>Sweden</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.se/ukraine" target="_blank">https://www.euraxess.se/ukraine</a></p>
     
 	<p><b>Funding programmes</b></p>
     <ul>
@@ -377,6 +387,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
     <br>
 	<h3>Switzerland</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.ch/ukraine" target="_blank">https://www.euraxess.ch/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
         <li>Swiss National Science Foundation<br>
@@ -400,6 +412,8 @@ $page->title = "Science for Ukraine - Funding programmes and support initiatives
     </ul>
 	<br>
 	<h3>U.K.</h3>
+	      <use xlink:href="assets/bootstrap-icons.svg#info-circle" />
+        </svg>  ERA4Ukraine <a href="https://www.euraxess.org.uk/ukraine" target="_blank">https://www.euraxess.org.uk/ukraine</a></p>
     <p><b>Funding programmes</b></p>
     <ul>
 	<li>Warwick IAS Visiting Fellowships<br>
